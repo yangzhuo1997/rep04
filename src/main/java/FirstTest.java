@@ -4,4 +4,7 @@ public class FirstTest {
         System.out.println("我的git");
 
     }
+    public void find(){
+        System.out.println("我的天呀");
+    }
 }
